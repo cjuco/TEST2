@@ -1,0 +1,8 @@
+# Resource
+resource/
+
+# Log
+*.log
+
+# Environments
+.env
